@@ -2,4 +2,12 @@
 title: "About"
 ---
 
-About this site
+About this site:
+
+This site is my personal website.
+
+My name is Kittipong Wongwipasamitkun.
+
+My nickname is Jo.
+
+Now I'm studying at UBC in the MDS programme.

@@ -1,7 +1,10 @@
 ---
-title: "Jokittipong.github.io"
+title: "Welcome to my website!!"
 ---
 
-This is a Quarto website.
+My name is Jo.
+
+If you want to know me more, please visit "About" 
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
