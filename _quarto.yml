@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: portugal_white_wine_quality_predictor.html
+        text: Milestone1
       - about.qmd
 
 format:
