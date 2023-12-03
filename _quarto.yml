@@ -8,6 +8,8 @@ website:
     left:
       - href: https://github.com/UBC-MDS/portugal_white_wine_quality_predictor_py/blob/main/report/_build/_page/portugal_white_wine_quality_predictor_report/html/portugal_white_wine_quality_predictor_report.html
         text: Home
+      - href: portugal_white_wine_quality_predictor.html
+        text: Milestone1
       - about.qmd
 
 format:
